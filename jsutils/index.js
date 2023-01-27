@@ -1,5 +1,3 @@
-// Dates converter Parser
-
 class Timestamp{
     __appendZero(d){
         return d < 10 ? `0${d}` : d;
